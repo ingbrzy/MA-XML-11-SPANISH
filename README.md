@@ -1,6 +1,6 @@
-# SPANISH MIUI 10 TRANSLATION FOR XIAOMI.EU
+# SPANISH MIUI 11 TRANSLATION FOR XIAOMI.EU
 REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
-![MIUI10](https://i.imgur.com/s5PsCYM.png)
+![MIUI11](https://i.imgur.com/s5PsCYM.png)
 
 ## ¿Qué hacer si encuentro algo sin traducir?
 ¡Importante leer!
@@ -28,7 +28,7 @@ Todas la issues que no tengan estos datos serán rechazadas
 
 [Últimos cambios hechos al repositorio original en Inglés para añadir y traducir](https://github.com/ingbrzy/Xiaomi.eu-MIUIv10-XML-Compare)
 
-[Últimas actualizaciones al repositorio en Español](https://github.com/ingbrzy/MA-XML-10-SPANISH-Global/commits)
+[Últimas actualizaciones al repositorio en Español](https://github.com/danielchc/MA-XML-11-SPANISH-Global/commits)
 
 
 # Si quieres ayudar a traducir, por favor crea una issue en el repositorio para más información.
