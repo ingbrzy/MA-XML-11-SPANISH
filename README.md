@@ -1,6 +1,7 @@
 # SPANISH MIUI 11 TRANSLATION FOR XIAOMI.EU
 REPOSITORIO DEL IDIOMA ESPAÑOL PARA LAS ROMs XIAOMI.EU
-![MIUI11](https://i.imgur.com/s5PsCYM.png)
+
+![MIUI11 logo](https://i.imgur.com/A44OaCG.gif)
 
 ## ¿Qué hacer si encuentro algo sin traducir?
 ¡Importante leer!
