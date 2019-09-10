@@ -27,7 +27,7 @@ Todas la issues que no tengan estos datos serán rechazadas
 
 [Validador XML](https://translators.xiaomi.eu/XML_MIUI11-Spanish-es.html)
 
-[Últimos cambios hechos al repositorio original en Inglés para añadir y traducir](https://github.com/ingbrzy/Xiaomi.eu-MIUIv10-XML-Compare)
+[Últimos cambios hechos al repositorio original en Inglés para añadir y traducir](https://github.com/ingbrzy/Xiaomi.eu-MIUIv11-XML-Compare)
 
 [Últimas actualizaciones al repositorio en Español](https://github.com/danielchc/MA-XML-11-SPANISH-Global/commits)
 
