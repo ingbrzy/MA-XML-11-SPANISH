@@ -492,7 +492,6 @@
      <string name="car_lockscreen_disclaimer_title">Conduce de forma segura</string>
      <string name="category_personal">Personal</string>
      <string name="category_work">Trabajo</string>
-     <string name="certinstaller_package">com.android.certinstaller</string>
      <string name="change_theme_reboot">Cambiar tema require un reinicio.</string>
      <string name="charge_length_format">hace %1$s</string>
      <string name="chooseUsbActivity">Selecciona una aplicación para el dispositivo USB</string>
@@ -953,10 +952,6 @@ Utilice sólo el cargador proporcionado."</string>
      <string name="keyguard_charging_back_to_lockscreen">Volver a la pantalla de bloqueo</string>
      <string name="keyguard_charging_info_battery_used_time_text">De batería</string>
      <string name="keyguard_charging_info_click_to_detail">Ver detalles</string>
-     <string name="keyguard_charging_info_data_c">%s℃</string>
-     <string name="keyguard_charging_info_data_ma">%smA</string>
-     <string name="keyguard_charging_info_data_percent">%s%%</string>
-     <string name="keyguard_charging_info_data_v">%sV</string>
      <string name="keyguard_charging_info_drained_power_percent_text">Agotada</string>
      <string name="keyguard_charging_info_last_charge_time">D/M H:mm</string>
      <string name="keyguard_charging_info_last_charge_today_time">Hoy %s</string>
@@ -971,7 +966,6 @@ Utilice sólo el cargador proporcionado."</string>
      <string name="keyguard_charging_normal_and_level_tip">"Cargando %d%%"</string>
      <string name="keyguard_charging_quick_and_level_tip">"Carga rápida %d%%"</string>
      <string name="keyguard_charging_super_quick_and_level_tip">"Carga rápida %d%%"</string>
-     <string name="keyguard_fancy_colon"></string>
      <string name="keyguard_indication_charging_time">Cargando (%s hasta llenarse)</string>
      <string name="keyguard_indication_charging_time_fast">Cargando rápidamente (%s hasta llenarse)</string>
      <string name="keyguard_indication_charging_time_slowly">Cargando lentamente (%s hasta llenarse)</string>
@@ -992,7 +986,6 @@ Utilice sólo el cargador proporcionado."</string>
      <string name="keyguard_missing_sim_instructions_long">No se encuentra la tarjeta SIM o no se puede leer. Inserta una tarjeta SIM.</string>
      <string name="keyguard_missing_sim_message">No hay tarjeta SIM en el teléfono.</string>
      <string name="keyguard_missing_sim_message_short">No hay tarjeta SIM</string>
-     <string name="keyguard_more_overflow_text">+%d</string>
      <string name="keyguard_network_locked_message">Red bloqueada</string>
      <string name="keyguard_password_enter_password_code">Introduce la contraseña para desbloquear</string>
      <string name="keyguard_password_enter_pin_code">Introduce el PIN</string>
@@ -1078,7 +1071,6 @@ Vuelve a intentarlo en %2$d segundos."</string>
      <string name="left_keycode">Clave izquierda</string>
      <string name="left_nav_bar_button_type">Botón extra en la izquierda</string>
      <string name="legacy_vpn_name">VPN</string>
-     <string name="list_delimeter">", "</string>
      <string name="local_backup_password_summary_change">Toca para cambiar o eliminar la contraseña de todas las copias de seguridad de la Pantalla de inicio</string>
      <string name="local_backup_password_summary_none">Las copias de seguridad de la Pantalla de inicio no están protegidas actualmente</string>
      <string name="local_backup_password_title">Contraseña de la copia de seguridad de la Pantalla de inicio</string>
@@ -1156,7 +1148,6 @@ a scrolling screenshot"</string>
      <string name="miui_guide_dialog_message">Sonidos multimedia (música, videos, etc.) serán reproducidos en modo silencio. Puedes cambiar esto en Ajustes.</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por un dispositivo Bluetooth</string>
      <string name="miui_ringer_count_down">Cuenta atrás</string>
-     <string name="miui_ringer_count_down_time">%s</string>
      <string name="miui_ringer_standard">Silenciar</string>
      <string name="miui_ringer_standard_description">Silenciar tonos para llamadas entrantes y notificaciones</string>
      <string name="miui_ringer_total">No molestar</string>
@@ -1185,14 +1176,12 @@ También está conectado a %3$s, que puede monitorizar tu actividad en la red pr
 
 Para más información, contacta con tu administrador."</string>
      <string name="monitoring_description_ca_cert_settings">Abrir credenciales de confianza</string>
-     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
      <string name="monitoring_description_ca_certificate">Una autoridad de certificación está instalada en este dispositivo. Su tráfico de red seguro puede ser monitoreado o modificado.</string>
      <string name="monitoring_description_do_body">Tu administrador puede monitorizar y administrar los ajustes, accesos corporativos, aplicaciones, datos asociados con tu dispositivo y la información de ubicación del mismo.</string>
      <string name="monitoring_description_do_body_vpn">Está conectado a %1$s, que puede controlar su actividad de red, incluidos correos electrónicos, aplicaciones y sitios web.</string>
      <string name="monitoring_description_do_header_generic">Tu dispositivo está gestionado por%1$s.</string>
      <string name="monitoring_description_do_header_with_name">%1$s usa %2$s para gestionar tu dispositivo.</string>
      <string name="monitoring_description_do_learn_more">Aprende más</string>
-     <string name="monitoring_description_do_learn_more_separator">" "</string>
      <string name="monitoring_description_managed_profile_ca_certificate">Su organización instaló una autoridad de certificación en su perfil de trabajo. Su tráfico de red seguro puede ser monitoreado o modificado.</string>
      <string name="monitoring_description_managed_profile_named_vpn">Su perfil de trabajo está conectado a %1$s, que puede controlar su actividad de red, incluidos correos electrónicos, aplicaciones y sitios web.</string>
      <string name="monitoring_description_management">"Su dispositivo es administrado por su organizazción.
@@ -1224,7 +1213,6 @@ Para más información, contacta con tu administrador.
 
 También estás conectado a una red VPN, la cual puede monitorizar tu actividad en la red."</string>
      <string name="monitoring_description_vpn_settings">Abrir ajustes VPN</string>
-     <string name="monitoring_description_vpn_settings_separator">" "</string>
      <string name="monitoring_subtitle_ca_certificate">Certificados CA</string>
      <string name="monitoring_subtitle_network_logging">Registro de red</string>
      <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1337,7 +1325,6 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
      <string name="picture_color_mode_desc">Usar sRGB</string>
      <string name="pip_close">Cerrar PIP</string>
      <string name="pip_fullscreen">Pantalla completa</string>
-     <string name="pip_menu_bounds">596 280 1324 690</string>
      <string name="pip_menu_title">Imagen en el menú de imagenes</string>
      <string name="pip_notification_message">Si no quieres %s usar esta función pulsa para abrir abrir los ajustes y desactivarla.</string>
      <string name="pip_notification_title">%s está en foto en foto</string>
@@ -1354,7 +1341,6 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
      <string name="plugins">"Complementos"</string>
      <string name="pointer_location">Localización del puntero</string>
      <string name="pointer_location_summary">Se muestran los datos actuales de toque</string>
-     <string name="power_charging">%1$s - %2$s</string>
      <string name="power_charging_duration">"%1$s - %2$s hasta que esté completamente cargado"</string>
      <string name="power_discharge_by">"Debería durar hasta aproximadamente %1$s (%2$s)"</string>
      <string name="power_discharge_by_enhanced">"Debería durar hasta aproximadamente %1$s según su uso (%2$s)"</string>
@@ -1412,16 +1398,11 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
      <string name="private_dns_mode_provider">"Nombre de host del proveedor de DNS privado"</string>
      <string name="private_dns_mode_provider_failure">"No se pudo conectar"</string>
      <string name="private_dns_mode_provider_hostname_hint">"Introduzca el nombre de host del proveedor de DNS"</string>
-     <string name="process_kernel_label">Android OS</string>
      <string name="profile_owned_footer">El perfil podría ser monitorizado</string>
      <string name="prompt_danger">Peligro</string>
      <string name="prompt_detecting">Detectando</string>
      <string name="prompt_safe">Seguro</string>
      <string name="prompt_unknown">Desconocido</string>
-     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-     <string name="proxy_hostname_hint">proxy.example.com</string>
-     <string name="proxy_port_hint">8080</string>
-     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
      <string name="qs_customize">Permitir personalizar pulsando en la Configuración rápida</string>
      <string name="qs_customize_info">Info</string>
      <string name="qs_customize_remove">Eliminar</string>
@@ -1525,10 +1506,6 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
      <string name="quick_settings_settings_label">Ajustes</string>
      <string name="quick_settings_sync_label">Sincronizar</string>
      <string name="quick_settings_tethering_label">Compartiendo internet</string>
-     <string name="quick_settings_tiles">default</string>
-     <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.milink.service/com.milink.ui.service.MiLinkTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,nfc,edit</string>
-     <string name="quick_settings_tiles_retail_mode">cell,batterysaver,powermode,flashlight,rotation,location</string>
-     <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,nfc,edit,drivemode</string>
      <string name="quick_settings_time_label">Tiempo</string>
      <string name="quick_settings_toast_drag_to_enable_custom_tile">Para agregar un elemento, manténgalo presionado y luego arrástrelo a la parte superior del panel.</string>
      <string name="quick_settings_user_label">Yo</string>
@@ -1654,7 +1631,6 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
      <string name="select_webview_provider_title">Implementación WebView</string>
      <string name="select_webview_provider_toast_text">Esta opción ya no es válida. Inténtalo de nuevo.</string>
      <string name="settings_custom_notification">Gestionar notificaciones</string>
-     <string name="settings_package">com.android.settings</string>
      <string name="settings_toggle_position">Gestionar controles</string>
      <string name="settings_toggle_position_divider_list">Controles activos encima de la barra de tareas</string>
      <string name="settings_toggle_position_reset">Restablecer controles</string>
@@ -1718,7 +1694,6 @@ También estás conectado a una red VPN, la cual puede monitorizar tu actividad 
      <string name="status_bar_network_flow_limit">"   Límite mensual: %1$s   "</string>
      <string name="status_bar_network_flow_purchase">"   Comprar >"</string>
      <string name="status_bar_network_flow_today">Hoy: %1$s</string>
-     <string name="status_bar_network_name_separator">-</string>
      <string name="status_bar_no_notifications_title">Sin notificaciones</string>
      <string name="status_bar_no_recent_apps">Tus pantallas recientes aparecen aquí</string>
      <string name="status_bar_notification_app_settings_title">%s ajustes</string>
@@ -1742,7 +1717,6 @@ Desliza hacia abajo para bloquear"</string>
      <string name="status_bar_settings_airplane">Modo avión</string>
      <string name="status_bar_settings_auto_brightness_label">AUTO</string>
      <string name="status_bar_settings_auto_rotation">Rotación automática de pantalla</string>
-     <string name="status_bar_settings_battery_meter_format" />
      <string name="status_bar_settings_mute_label">SILENCIAR</string>
      <string name="status_bar_settings_notifications">Notificaciones</string>
      <string name="status_bar_settings_settings_button">Ajustes</string>
@@ -1977,7 +1951,6 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
      <string name="user_remove_user_title">¿Eliminar usuario?</string>
      <string name="v7_preference_off">"APAGADO"</string>
      <string name="v7_preference_on">"ENCENDIDO"</string>
-     <string name="velocity_tracker_impl">platform</string>
      <string name="verify_apps_over_usb_summary">Verificar comportamiento dañino de apps instaladas via ADB/ADT.</string>
      <string name="verify_apps_over_usb_title">Verificar apps a través de USB</string>
      <string name="voice_assist_label">Abrir Asistente de voz</string>
@@ -2034,7 +2007,6 @@ Cualquier usuario puede actualizar aplicaciones para otros."</string>
      <string name="wapi_psk_type_ascii">ASCII</string>
      <string name="wapi_psk_type_hex">Hexadecimal</string>
      <string name="wapi_yes">"Sí"</string>
-     <string name="weather_description_no_aqi">%1$s</string>
      <string name="weather_publish_time">Actualizado %1$s</string>
      <string name="wifi_aggressive_handover">Transf. agresiva de Wi‑Fi para móvil</string>
      <string name="wifi_aggressive_handover_summary">Si activado, la conexión cambiará a datos móviles si la señal de Wi‑Fi es débil.</string>
