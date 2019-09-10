@@ -25,7 +25,7 @@ Todas la issues que no tengan estos datos serán rechazadas
 *Si quieres donar para contribuir al proyecto no dudes en contactarnos*
 ## Misc
 
-[Validador XML](https://translators.xiaomi.eu/XML_MIUI10-Spanish-es.html)
+[Validador XML](https://translators.xiaomi.eu/XML_MIUI11-Spanish-es.html)
 
 [Últimos cambios hechos al repositorio original en Inglés para añadir y traducir](https://github.com/ingbrzy/Xiaomi.eu-MIUIv10-XML-Compare)
 
