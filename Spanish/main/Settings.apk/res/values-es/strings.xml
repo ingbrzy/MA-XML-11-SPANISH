@@ -7472,4 +7472,20 @@ Actualizar la configuración a:
 	<string name="key_shortcut_settings_title">Atajos de botones</string>
 	<string name="dark_color_summary_lcd">Usar una paleta de colores más oscuros para fondos del sistema y aplicaciones compatibles. El modo oscuro puede ayudarlo a aliviar la fatiga visual cuando usa su dispositivo en la oscuridad.</string>
 	<string name="dark_color_summary_oled">Usar una paleta de colores más oscuros para fondos del sistema y aplicaciones compatibles. El modo oscuro reduce el consumo de energía y ayuda a aliviar la fatiga visual</string>
+	<string name="connection_and_sharing">Conexión y compartir</string>
+	<string name="confirm_lock_pattern_header_text">Dibuje el patrón</string>
+	<string name="choose_lock_pattern_header_text">Establecer patrón</string>
+	<string name="close_privacy_thumbnail_blur_title">Las vistas previas no se emborronan</string>
+	<string name="gxzw_add_fingerprint_area">Lector de huellas</string>
+	<string name="always_style">Siempre</string>
+	<string name="aod_name_wanxiang">AOD</string>
+	<string name="aod_notification_style_animation">Mostrar animación</string>
+	<string name="aod_notification_style_none">No hacer nada</string>
+	<string name="aod_notification_style_screen_on">Iluminar pantalla</string>
+	<string name="aod_show_mode_title">Mostrar elementos</string>
+	<string name="aod_style_description">Mostrar reloj, fecha, hora, notificaciones y otros elementos cuando la pantalla está apagada</string>
+	<string name="aod_style_title">Estilo</string>
+	<string name="scheduled_style">Programar</string>
+	<string name="screen_dark_mode_select_time_error_summary">La hora de inicio y la hora de fin no pueden ser iguales</string>
+	<string name="screen_dark_mode_time_title">Programar</string>
 </resources>
