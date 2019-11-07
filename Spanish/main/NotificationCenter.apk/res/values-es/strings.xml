@@ -38,4 +38,8 @@
     <string name="summary_float_enable_notification_first">Permitir que las notificaciones puedan activar las notificaciones flotantes</string>
     <string name="summary_lock_screen_enable_notification_first">Permitir que las notificaciones puedan activar las notificaciones en la Pantalla de bloqueo</string>
     <string name="summary_show_badge_enable_notification_first">Permitir que las notificaciones puedan activar los iconos de notificaciones</string>
+	<string name="expand_top_notification">Expandir la primera notificación</string>
+	<string name="notch_and_status_bar_setting">Notch y barra de estado</string>
+	<string name="settings_guide_title">¿Buscas otras configuraciones?</string>
+	<string name="status_bar_setting">Barra de estado</string>
 </resources>
