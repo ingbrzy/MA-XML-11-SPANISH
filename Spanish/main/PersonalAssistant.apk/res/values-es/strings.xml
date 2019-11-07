@@ -1529,4 +1529,9 @@
 	<string name="yellow_page_website">Página official</string>
 	<string name="yesterday">Ayer</string>
 	<string name="battery_history">Batería</string>
+	<string name="display_weather_default">Pulsa para obtener información del clima</string>
+	<string name="timeline_headline">Próximos</string>
+	<string name="sport_headline">Actividad de hoy</string>
+
+
 </resources>
