@@ -6,6 +6,7 @@
     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d mensajes</item>
+        <item quantity="zero">%d mensajes</item>
         <item quantity="one">%d mensaje</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
@@ -18,6 +19,7 @@
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d seleccionados</item>
+        <item quantity="zero">%d seleccionados</item>
         <item quantity="one">%d seleccionado</item>
     </plurals>
     <plurals name="group_message_failed_title">
@@ -26,6 +28,7 @@
     </plurals>
     <plurals name="hint_search_sms">
         <item quantity="other">%d mensajes</item>
+        <item quantity="zero">%d mensajes</item>
         <item quantity="one">%d mensaje</item>
     </plurals>
     <plurals name="message_count">
@@ -47,10 +50,12 @@
     <plurals name="slide_audio_duration">
         <item quantity="other">%d segs</item>
         <item quantity="one">%d seg</item>
+        <item quantity="few">%d segs</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%d segs</item>
         <item quantity="one">%d seg</item>
+        <item quantity="few">%d segs</item>
     </plurals>
     <plurals name="timed_message_expired_title">
         <item quantity="other">No se han enviado %d mensajes programados</item>

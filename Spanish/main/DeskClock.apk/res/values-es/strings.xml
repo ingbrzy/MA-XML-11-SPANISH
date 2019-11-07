@@ -243,4 +243,25 @@
 	<string name="shortcut_new_alarm">Establecer alarma</string>
 	<string name="shortcut_start_timer">Iniciar temporizador</string>
 	<string name="shortcut_stop_watch">Iniciar cronómetro</string>
+	<string name="module_update_success_control">Entendido</string>
+	<string name="no_alarm_setting">No hay alarmas aquí</string>
+	<string name="no_worldclock">No hay relojes aquí</string>
+	<string name="personal_recommend">Recomendaciones de contenido personalizadas</string>
+	<string name="privacy_policy_title">Política de privacidad</string>
+	<string name="ringtone_all">Todos los sonidos</string>
+	<string name="ringtone_dew">Rocío de la mañana</string>
+	<string name="ringtone_dream">Ensueño</string>
+	<string name="ringtone_firefly">Luciérnagas</string>
+	<string name="ringtone_other">Más sonidos</string>
+	<string name="ringtone_weather">Sonido tiempo</string>
+	<string name="ringtone_week">Sonido naturalez</string>
+	<string name="search_menu_title">Buscar</string>
+	<string name="set_alarm_choose_ringtone">Establecer sonido</string>
+	<string name="set_alarm_other">Otros</string>
+	<string name="setting_alarm_arriving_subtitle">Mostrar notificaciones antes de que suenen las alarmas</string>
+	<string name="shutdown_alarm_alert_enable_summary">Las alarmas de apagado se apagarán al menos 10 minutos después de que apague su dispositivo</string>
+	<string name="shutdown_alarm_alert_title">Alarma con teléfono apagado</string>
+	<string name="system_permission_purpose">Crear alarmas entre semana y configurar tonos de llamada personalizados</string>
+	<string name="timer_alert_type_spring_rain">Lluvia de verano</string>
+	<string name="volume_button_setting_desc">Asigna funciones para los botones de Encendido y Volumen +/-</string>
 </resources>

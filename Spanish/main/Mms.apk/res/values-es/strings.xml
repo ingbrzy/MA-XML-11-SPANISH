@@ -678,4 +678,15 @@ Intentos realizados: %s."</string>
     <string name="notification_channel_description">Notificaciones de Mensajes</string>
     <string name="notification_channel_name">Mensajes</string>
 	<string name="dialog_title_networking">Términos y condiciones</string>
+	<string name="notification_channel_msg_description">Notifications about messages</string>
+	<string name="notification_channel_msg_name">Mensajes</string>
+	<string name="notification_channel_other_description">Otras notificaciones</string>
+	<string name="notification_channel_other_name">Otras</string>
+	<string name="notification_channel_sim1_description">Notificaciones sobre mensajes SIM 1</string>
+	<string name="notification_channel_sim1_name">Mensajes SIM 1</string>
+	<string name="notification_channel_sim2_description">Notificaciones sobre mensajes SIM 2</string>
+	<string name="notification_channel_sim2_name">Mensajes SIM 2</string>
+	<string name="notification_delete">Borrar</string>
+	<string name="notification_group_name">Mensajería</string>
+	<string name="notification_seen">Marcar como leído</string>
 </resources>
