@@ -2952,7 +2952,6 @@ tu dispositivo"</string>
 	<string name="power_setting_wireless_reverse_charging_title">Carga inalámbrica inversa</string>
 	<string name="power_settings_lock_screen_saver_title">Configuraciones de bloqueo de pantalla</string>
 	<string name="pref_category_package_type_title">Tipo de plan de datos</string>
-	<string name="pref_operator_setting">%1$s %2$s</string>
 	<string name="pref_traffic_daily_package">Plan de datos diario</string>
 	<string name="pref_traffic_daily_package_brand">Proveedor de plan de datos diarios</string>
 	<string name="pref_traffic_unlimited_package">Plan de datos ilimitado</string>
@@ -2969,7 +2968,6 @@ tu dispositivo"</string>
 	<string name="privacy_notification_title_camera">%1s está usando la cámara en segundo plano</string>
 	<string name="privacy_notification_title_camera_mic">%1s está usando cámara y micrófono en segundo plano</string>
 	<string name="privacy_notification_title_mic">%1s está utilizando el micrófono en segundo plano</string>
-	<string name="process_kernel_label">Android</string>
 	<string name="process_vpnsdkmanager_label">Game Turbo</string>
 	<string name="quick_optimize_sub_battery_text">Quedan aproximadamente %s</string>
 	<string name="quick_optimize_sub_summary_with_battery_text">Se agregó %1$s , quedan aproximadamente %2$s</string>
