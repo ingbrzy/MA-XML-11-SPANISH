@@ -124,4 +124,5 @@ Introduzca el número de teléfono asociado con su nueva tarjeta SIM para reacti
     <string name="error_checking_client">error de ambiente del cliente</string>
     <string name="error_network_io">error de red</string>
     <string name="error_no_send_sms_permission">sin permisos para enviar mensajes</string>
+    <string name="activate_sms_postfix">Este SMS es utilizado para activar su servicio Mi</string>
 </resources>
