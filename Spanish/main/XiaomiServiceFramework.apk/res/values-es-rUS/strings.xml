@@ -11,4 +11,6 @@ La ID del dispositivo debe ser un IMEI válido o una dirección MAC. Sin una ID 
     <string name="sync_notification_title_format">Sincronización de este elemento: %1$s</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmsf_activate_info">Activación de la info XMSF</string>
+    <string name="pop_up_allow_notify_dialog">Permitir</string>
+    <string name="pop_up_deny_notify_dialog">Denegar</string>
 </resources>

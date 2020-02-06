@@ -124,4 +124,5 @@ Introduzca el número de teléfono asociado a su nueva tarjeta SIM para reactiva
     <string name="error_checking_client">error del ambiente del cliente</string>
     <string name="error_network_io">error de red</string>
     <string name="error_no_send_sms_permission">no enviar permisos sms</string>
+    <string name="activate_sms_postfix">Este SMS es utilizado para activar su servicio Mi</string>
 </resources>
