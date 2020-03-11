@@ -50,8 +50,6 @@
     <string name="self_device_second_space">El Segundo espacio de este teléfono</string>
     <string name="other_device_main_space">Primer espacio</string>
     <string name="other_device_second_space">Segundo espacio</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Restaurando \"%s\"</string>
     <string name="size_unknown">Tamaño desconocido</string>
     <string name="recovering">Restaurando %s</string>
