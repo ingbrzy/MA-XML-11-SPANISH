@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="accessibility_calllog_detail">Detalles del historial de llamadas</string>
     <string name="accessibility_contact_detail">Detalles de contacto</string>
     <string name="account_container_title">Importado desde</string>
@@ -101,7 +100,6 @@
     <string name="call_sim_menu_title_suffix">(Principal)</string>
     <string name="call_telex">Llamar al télex</string>
     <string name="call_tty_tdd">Llamar a TTY/TDD</string>
-    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Llamar al trabajo</string>
     <string name="call_work_mobile">Llamar al móvil del trabajo</string>
@@ -502,7 +500,6 @@ Motivo: \"%s\""</string>
     <string name="four">4</string>
     <string name="four_letter">GHI</string>
     <string name="frequentList">Frecuentes</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Nombre</string>
     <string name="gallery">Galería</string>
     <string name="generic_no_account_prompt">Mantén tus contactos a salvo si pierdes el teléfono: sincronizar con el servicio online.</string>
@@ -686,7 +683,6 @@ Motivo: \"%s\""</string>
     <string name="miprofile_contact_header">Contactos con tarjetas de contacto</string>
     <string name="miprofile_contact_meaasge">Contactos locales</string>
     <string name="miprofile_contact_verifying">Comprobando</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Editar perfil</string>
     <string name="miprofile_error_accept_self">No puedes intercambiar tu propia tarjeta de contacto</string>
     <string name="miprofile_error_no_miaccount">Inicia sesión en Cuenta Mi</string>
@@ -843,8 +839,6 @@ Para añadir un contacto a tu lista de favoritos:
     <string name="path_wipe_data">Aplicaciones del sistema/Contactos/Organizar contactos/Borrar datos</string>
     <string name="payphone">Teléfono de pago</string>
     <string name="people">Contactos</string>
-    <string name="percent_sign">%</string>
-    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Teléfono</string>
     <string name="phone_info_divider">" | "</string>
     <string name="phone_number_too_long_toast">Número demasiado largo</string>
@@ -1104,7 +1098,6 @@ Para añadir un contacto a tu lista de favoritos:
     <string name="single_group_list_empty">No hay miembros en el grupo</string>
     <string name="six">6</string>
     <string name="six_letter">MNO</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Compañías</string>
     <string name="smart_group_company_unavailable">No hay información de la compañía</string>
     <string name="smart_group_frequency_1">En el mes pasado</string>
@@ -1244,7 +1237,6 @@ elecciona una de las siguientes opciones:"</string>
     <string name="voip_audio_description">Llamada VoIP</string>
     <string name="voip_video_description">Videollamada VoIP</string>
     <string name="websiteLabelsGroup">Página web</string>
-    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Borrar datos</string>
     <string name="yellowPageNavigationIconLabel">Páginas amarillas</string>
     <string name="yellowPageNavigationLabel">Páginas amarillas</string>
