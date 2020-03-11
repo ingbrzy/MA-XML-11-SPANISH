@@ -52,6 +52,17 @@
         <item>25 minutos</item>
         <item>30 minutos</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Lunes a viernes</item>
+        <item>Cada día</item>
+        <item>Días laborables</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Cada día</item>
+        <item>Lunes a viernes</item>
+        <item>Días laborables</item>
+        <item>Personalizado</item>
+    </string-array>
     <string-array name="cities_names_miui">
         <item>Abiyán</item>
         <item>Acra</item>
@@ -632,6 +643,22 @@
         <item>Honduras</item>
         <item>Surinam</item>
         <item>Ecuador</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mié</item>
+        <item>Jue</item>
+        <item>Vie</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>A la hora establecida</item>
+        <item>15 minutos antes</item>
+        <item>30 minutos antes</item>
+        <item>1 hora antes</item>
+        <item>Ninguno</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minuto</item>

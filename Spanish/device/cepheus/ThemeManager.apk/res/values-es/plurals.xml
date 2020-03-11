@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="portfolio">
+        <item quantity="other">%d trabajos</item>
+        <item quantity="one">%d trabajo</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d comentarios</item>
         <item quantity="one">%d comentario</item>

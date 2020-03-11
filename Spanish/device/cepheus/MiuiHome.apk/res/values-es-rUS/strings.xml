@@ -4,6 +4,19 @@
     <string name="activity_not_found">La aplicación no está instalada en su dispositivo</string>
     <string name="activity_not_unlocked">Espere hasta que su dispositivo se reinicie completamente para abrir aplicaciones</string>
     <string name="add_screen">Agregar pantalla</string>
+    <string name="all_apps">Todas las aplicaciones</string>
+    <string name="all_apps_no_search_results">No se encontraron resultados</string>
+    <string name="all_apps_search_app">Buscar aplicaciones</string>
+    <string name="all_apps_search_market_message">Buscar en línea</string>
+    <string name="all_apps_setting_desktop_desc">Mostrar todas las aplicaciones instaladas en la pantalla de inicio. Mantenga presionado el ícono de una aplicación para ver los atajos disponibles, administrarla o desinstalarla.</string>
+    <string name="all_apps_setting_desktop_title">Normal</string>
+    <string name="all_apps_setting_drawer_desc">Colocar todas las aplicaciones instaladas en la bóveda de aplicaciones, a la cual puede acceder deslizando hacia arriba en la pantalla de inicio. Podrá encontrar las aplicaciones que haya movido a la pantalla de inicio en la bóveda de aplicaciones.</string>
+    <string name="all_apps_setting_drawer_tips_desc">Abra la bóveda de aplicaciones deslizando hacia arriba en la pantalla de inicio. Cambiar al modo pantalla de inicio con bóveda de aplicaciones hará que el centro de contenido no esté disponible. ¿Cambiar?</string>
+    <string name="all_apps_setting_drawer_tips_title">Usando la bóveda de aplicaciones</string>
+    <string name="all_apps_setting_drawer_title">Con bóveda de aplicaciones</string>
+    <string name="all_apps_setting_title">Pantalla de inicio</string>
+    <string name="all_apps_slide_up_tips">Deslizar hacia arriba está reservado para abrir la bóveda de aplicaciones. Cambie al modo de pantalla de inicio normal y vuelva a intentarlo.</string>
+    <string name="all_apps_suggestions">Sugerencias de aplicaciones</string>
     <string name="announce_for_app_move_in_folder">Movido a la posición %1$d en la carpeta</string>
     <string name="announce_for_checked">%1$s, verificado</string>
     <string name="announce_for_choose_default_screen">Establecer la pantalla %1$d como pantalla de inicio por defecto</string>
@@ -296,6 +309,7 @@
     <string name="privacy_thumbnail_blur_summary">Desenfocar vistas previas de aplicaciones recientes</string>
     <string name="privacy_thumbnail_blur_title">Desenfocar vistas previas de aplicaciones</string>
     <string name="quick_app">Aplicaciones rápidas</string>
+    <string name="recent_apps">Recientes</string>
     <string name="recents_config_title">Recientes</string>
     <string name="recommend_apk_size_and_desc">%1$d MB | %2$s</string>
     <string name="recommend_apps_default_title">Vacío</string>

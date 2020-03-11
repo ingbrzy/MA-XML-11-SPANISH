@@ -32,6 +32,22 @@
         <item quantity="other">%d segundos</item>
         <item quantity="one">%d segundo</item>
     </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s horas</item>
+        <item quantity="one">%1$s hora</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s h</item>
+        <item quantity="one">%1$s h</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s minutos</item>
+        <item quantity="one">%1$s minuto</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">El intervalo a posponer cambió a %d minutos</item>
         <item quantity="one">El intervalo a posponer cambió a %d minuto</item>

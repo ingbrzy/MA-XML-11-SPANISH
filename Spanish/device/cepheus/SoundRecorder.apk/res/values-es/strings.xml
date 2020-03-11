@@ -12,6 +12,7 @@
     <string name="call_record_list_group_all">Todo</string>
     <string name="call_record_list_group_connected">Conectado</string>
     <string name="call_record_list_group_unconnected">No conectado</string>
+    <string name="cancel_rename">Cancelar</string>
     <string name="clear_records">Eliminar grabaciones sincronizadas</string>
     <string name="cloud_record_open">Sincronizar grabaciones</string>
     <string name="cloud_record_tip">Sincronizar grabaciones con Xiaomi Cloud.</string>
@@ -24,6 +25,7 @@
     <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Aviso de uso de datos</string>
     <string name="delete">Eliminar</string>
+    <string name="delete_cloud_data_at_same_time">Eliminar también de la nube</string>
     <string name="delete_dialog_message">¿Eliminar grabación?</string>
     <string name="deleting_message">Borrando…</string>
     <string name="details">Detalles</string>
@@ -73,6 +75,7 @@
     <string name="korea_permission_record_resc">Para grabar audio</string>
     <string name="korea_permission_storage">Almacenamiento</string>
     <string name="korea_permission_storage_desc">Para guardar grabaciones</string>
+    <string name="loading_more">Un momento…</string>
     <string name="loading_order_list">Un momento…</string>
     <string name="loading_order_list_empty">Aquí no hay pedidos.</string>
     <string name="low_battery_error">Menos del 5% de batería restante. Pause y guarde su grabación para asegurarse de que no se pierda.</string>
@@ -121,6 +124,7 @@
     <string name="online_recognize_order_upload">Confirmar y subir</string>
     <string name="online_recognize_order_uploading">Subiendo %s…</string>
     <string name="online_recognize_other_order_upload">Espera a que las actualizaciones actuales sean completadas y vuelve a intentarlo.</string>
+    <string name="online_recognize_progress">Transcribiendo %s…</string>
     <string name="online_recognize_running">Transcribiendo</string>
     <string name="online_recognize_service_unavailable">El servicio no está disponible ahora. Espera uno o dos minutos y vuelve a intentarlo.</string>
     <string name="order_item_duration">Duración： %s</string>
@@ -140,6 +144,8 @@
     <string name="preference_online_orders">Pedidos online</string>
     <string name="preference_recog_faqs">Transcribiendo preguntas frecuentes online</string>
     <string name="preference_recog_terms">Términos de Servicio</string>
+    <string name="preference_record_desktop_indicator_summary">Mostrar un indicador azul en la Pantalla de inicio cuando la Grabadora se ejecute en segundo plano</string>
+    <string name="preference_record_desktop_indicator_title">Indicador de la Pantalla de inicio</string>
     <string name="preference_record_scenes_dialog_title">Selecciona el tipo de grabación</string>
     <string name="preference_scenes">Tipo de grabación</string>
     <string name="preference_silent_mode">Silenciar el tono de llamada mientras se graba</string>
@@ -225,7 +231,9 @@
     <string name="retry">Reintentar</string>
     <string name="runtime_permission_ungranted">No se puede usar la Grabadora debido a los permisos no concedidos</string>
     <string name="search_app">Grabadora</string>
+    <string name="search_empty">No se pudo encontrar resultados</string>
     <string name="search_enable_earpiece_title">Usar receptor para reproducir audio</string>
+    <string name="search_hint">Buscar</string>
     <string name="search_led_indicator">Notificaciones en la pantalla de bloqueo</string>
     <string name="search_led_indicator_prompt">Mientras se graba, mostrar atajo en la barra de estado y encender la luz de notificación en la Pantalla de bloqueo</string>
     <string name="search_quliaty_title">Calidad de grabación</string>

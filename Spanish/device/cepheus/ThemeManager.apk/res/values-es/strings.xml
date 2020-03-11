@@ -121,6 +121,7 @@
     <string name="audio_duration_minutes_format">%1$d minutos</string>
     <string name="audio_duration_seconds_format">%1$d segundos</string>
     <string name="automatically_update_using_theme_tips">Actualizar automáticamente la próxima vez</string>
+    <string name="back_to_default">Volver a predeterminados</string>
     <string name="backup_theme_dialog_message">¿Crear Backup del tema actual?</string>
     <string name="backup_theme_dialog_ok">Copia de seguridad</string>
     <string name="backup_theme_fail_trial_rights_message">No se puede hacer copia de seguridad para pruebas</string>
@@ -148,6 +149,7 @@
     <string name="component_title_video_wallpaper">Películas de fondo de pantalla</string>
     <string name="component_title_wallpaper">Fondos de pantalla</string>
     <string name="composite_first">Por defecto</string>
+    <string name="config_success">Aplicado con éxito</string>
     <string name="current_using_desktop_wallpaper_text">Pantalla de inicio</string>
     <string name="current_using_lockscreen_wallpaper_text">Pantalla de bloqueo</string>
     <string name="current_version_incompatible">No compatible</string>
@@ -173,12 +175,14 @@
     <string name="exit_extreme_mode_dialog_agree">Aceptar</string>
     <string name="exit_extreme_mode_dialog_cancel">Cancelar</string>
     <string name="exit_extreme_mode_dialog_title">Desactivar Modo extremo</string>
+    <string name="expect_more">¡Permanece atento para más actualizaciones!</string>
     <string name="extreme_mode_dialog_message">Esta función no está disponible en Modo extremo. Desactiva el Modo extremo para poder usarla.</string>
     <string name="extreme_mode_dialog_ok">Entendido</string>
     <string name="extreme_mode_dialog_title">Alerta</string>
     <string name="fail_to_add_account">No se puede agregar la cuenta</string>
     <string name="favorite_list">Favoritos</string>
     <string name="favorite_list_format">%1$s favoritos</string>
+    <string name="find_more">Encontrar más</string>
     <string name="find_more_theme">Encontrar más</string>
     <string name="find_more_wallpapers">Encontrar más</string>
     <string name="fresh_first">Novedades primero</string>
@@ -249,7 +253,13 @@
     <string name="lockstyle_personal_settings">Personalización</string>
     <string name="max_usable_themes">99+</string>
     <string name="mi_wallpaper">Fondo MIUI</string>
+    <string name="mix_global">Sistema</string>
+    <string name="mix_home">Pantalla de inicio</string>
+    <string name="mix_icon">Iconos</string>
+    <string name="mix_lockscreen">Pantalla de bloqueo</string>
+    <string name="mix_tips">Elementos de temas</string>
     <string name="more">MÁS</string>
+    <string name="more_wallpapers">Pulsa para ver más fondos de pantalla</string>
     <string name="multi_sim_ringtone_settings_dialog_message">El tono de llamada se aplica a ambas tarjetas SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Entendido</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">No mostrar de nuevo</string>
@@ -277,7 +287,12 @@
     <string name="online_search_hint">Buscar recursos online</string>
     <string name="popular_themes">Temas populares</string>
     <string name="popular_wallpapers">Fondos de pantalla populares</string>
+    <string name="pref_animation_preview">Previsualizaciones animadas</string>
+    <string name="pref_animation_preview_switch">Mostrar transición de la Pantalla de bloqueo a la Pantalla de inicio en la portada de temas</string>
     <string name="pref_privacy_policy">Política de Privacidad</string>
+    <string name="preference_authorization_summary">Activa y desactiva el interruptor para conceder o revocar tu autorización</string>
+    <string name="preference_authorization_title">Autorización</string>
+    <string name="premium">Premium</string>
     <string name="present_local_themes">Mis temas</string>
     <string name="present_local_themes_subtitle">Personaliza tu dispositivo</string>
     <string name="present_official_themes">Nuestra elección</string>
@@ -292,6 +307,9 @@
     <string name="purchased_list">Adquirido</string>
     <string name="purchased_list_current">Temas optimizados</string>
     <string name="purchased_list_legacy">Temas descargados</string>
+    <string name="rank_one">1.%s</string>
+    <string name="rank_three">3.%s</string>
+    <string name="rank_two">2.%s</string>
     <string name="recently_used">Usado recientemente</string>
     <string name="refresh_footer_all_loaded">Esto es todo por ahora.</string>
     <string name="refresh_footer_failed">No se pudo cargar la información</string>
@@ -317,7 +335,7 @@
     <string name="resource_apply_trial">Probar ahora</string>
     <string name="resource_back">Atrás</string>
     <string name="resource_buy">Comprar</string>
-    <string name="resource_can_not_selected">%1$s no puede seleccionarse</string>
+    <string name="resource_can_not_selected">%1$s no puede ser seleccionado</string>
     <string name="resource_category">Categoría</string>
     <string name="resource_clear_search_history">Borrar el historial de búsqueda</string>
     <string name="resource_clear_search_history_dialog">¿Borrar todo el historial de búsqueda?</string>
@@ -445,7 +463,7 @@
     <string name="resource_present">Regalo</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratis</string>
-    <string name="resource_price_unit">Mi Créditos</string>
+    <string name="resource_price_unit"> Créditos Mi</string>
     <string name="resource_purchase_common_error">Ha ocurrido un error, inténtalo de nuevo</string>
     <string name="resource_purchase_continue_to_pay">Continuar el pago de %s</string>
     <string name="resource_purchase_getting_order">Recuperando información del pedido…</string>
@@ -483,7 +501,7 @@
     <string name="resource_share_title">Compartir</string>
     <string name="resource_system_title">Recursos del sistema</string>
     <string name="resource_tab_to_view">Pulsa para ver.</string>
-    <string name="resource_tip_select_none">Ninguna selección</string>
+    <string name="resource_tip_select_none">Nada seleccionado</string>
     <string name="resource_title">Detalles</string>
     <string name="resource_title_category">Categorías</string>
     <string name="resource_title_hot_subject">Popular</string>
@@ -515,6 +533,18 @@
     <string name="resource_waiting_download">Esperando</string>
     <string name="resource_waiting_pause">Pausar</string>
     <string name="resource_wallpaper_download">Descargar fondo de pantalla</string>
+    <string name="revoke_dialog_agree">Revocar</string>
+    <string name="revoke_dialog_agree_with_timestamp">Revocar (%1$ds)</string>
+    <string name="revoke_dialog_disagree">Cancelar</string>
+    <string name="revoke_dialog_message">Después de revocar la autorización, Temas dejará de recopilar datos y eliminará todos los datos relacionados de nuestros servidores. Esto podría hacer que Temas sea virtualmente inutilizable. ¿Revocar la autorización de todas formas?</string>
+    <string name="revoke_dialog_title">Revocando autorización</string>
+    <string name="revoke_progress_dialog_message">Revocando autorización…</string>
+    <string name="revoke_toast_message">Autorización revocada con éxito</string>
+    <string name="rewarded_ad_load_failed">No se pudo cargar el vídeo. Vuelve a intentarlo.</string>
+    <string name="rewarded_ad_loading_toast">Cargando vídeo…</string>
+    <string name="rewarded_ad_pop_des">Ver los vídeos con anuncios te permitirá descargar temas premium y recompensar a nuestros diseñadores. ¿Ver ahora?</string>
+    <string name="rewarded_ad_pop_ok">Ver</string>
+    <string name="rewarded_ad_pop_title">Temas premium</string>
     <string name="ringtone_set_success">Establecido con éxito</string>
     <string name="sdcard_not_mounted_dialog_message">"Inserte una tarjeta SD ahora.
 "</string>
@@ -577,6 +607,7 @@
     <string name="theme_current_using_has_update">Hay una actualización para su tema actual</string>
     <string name="theme_description_title_customized">Personalizado</string>
     <string name="theme_description_title_default">Por defecto</string>
+    <string name="theme_detail">Detalles</string>
     <string name="theme_detail_tab_comment">Comentarios</string>
     <string name="theme_detail_tab_recommend">Recomendados</string>
     <string name="theme_detail_tab_theme">Detalles</string>
@@ -611,18 +642,24 @@
     <string name="theme_user_agreement_remind_summary">Mostrar las condiciones de uso pop-up cada vez que abra la aplicación Temas. Esta configuración se aplicará después de reiniciar el dispositivo.</string>
     <string name="theme_user_agreement_title">Términos de uso</string>
     <string name="theme_yes">Sí</string>
+    <string name="themes_might_like">Temas que podrían gustarte</string>
     <string name="third_party_pickers_activity_title">Añadir %1$s</string>
+    <string name="tip_global">Barra de notificaciones, Teléfono, Mensajería, etc. Desmarcar para usar las opciones por defecto.</string>
+    <string name="tip_home">Fondo de pantalla de la Pantalla de inicio y reloj. Desmarcar para usar las opciones por defecto.</string>
+    <string name="tip_icon">Iconos de la Pantalla de inicio. Desmarcar para usar las opciones por defecto.</string>
+    <string name="tip_lockscreen">Fondo de pantalla de la Pantalla de bloqueo y reloj. Desmarcar para usar las opciones por defecto.</string>
     <string name="tips_theme_gate_transfer_fail">No se pudo abrir esta página. Espera un momento y vuelve a intentarlo.</string>
     <string name="title_component">Personalizar tema</string>
+    <string name="title_home_miwallpaper_home_screen_effects">Efectos de la Pantalla de inicio</string>
     <string name="title_my_audio_resource">Mis tonos</string>
     <string name="title_my_miwallpaper_resource">Mis fondos animados</string>
-    <string name="title_my_miwallpaper_video_file_resource">Mis vídeos de fondos de pantalla</string>
     <string name="title_my_wallpaper_resource">Mis fondos de pantalla</string>
     <string name="title_system_audio_alarm_resource">Alarma del sistema</string>
     <string name="title_system_audio_notification_resource">Notificaciones del sistema</string>
     <string name="title_system_audio_resource">Tonos de llamada del sistema</string>
     <string name="title_system_wallpaper_resource">Fondos de pantalla del sistema</string>
     <string name="to_activate_the_account">Activa Cuenta Mi ahora</string>
+    <string name="try_tap">Pulsa para previsualizar</string>
     <string name="uid_change_dialog_message">Ha eliminado actualizaciones. Reiniciar el dispositivo para poder usar los temas.</string>
     <string name="uid_change_dialog_ok">Entendido</string>
     <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
@@ -637,6 +674,10 @@
     <string name="update_no_net">Se produjo un error de red. Vuelve a intentarlo.</string>
     <string name="update_title">ACTUALIZACIÓN DISPONIBLE</string>
     <string name="user_agree">Aceptar</string>
+    <string name="user_authorization_dialog_agree">Aceptar</string>
+    <string name="user_authorization_dialog_disagree">Salir</string>
+    <string name="user_authorization_dialog_message">Antes de usar Temas, lee y acepta nuestro &lt;a href=\"%1$s\">Acuerdo de Usuario&lt;/a> y &lt;a href=\"%2$s\">Política de Privacidad&lt;/a>.</string>
+    <string name="user_authorization_dialog_title">Concediendo autorización</string>
     <string name="user_know">Entendido</string>
     <string name="using_theme_has_update_tips">Hay una actualización disponible para este tema.</string>
     <string name="using_theme_next_automatic_update">Actualizaciones automáticas</string>
@@ -651,6 +692,7 @@
     <string name="wallpaper_crop">Recortar</string>
     <string name="wallpaper_decoded_error">No es posible cargar el fondo de pantalla</string>
     <string name="wallpaper_detail_load_page_no_network">Conéctate a la red e inténtalo de nuevo.</string>
+    <string name="wallpaper_might_like">Fondos de pantalla que podrían gustarte</string>
     <string name="wallpaper_personal_dialog_agree">Personalizar</string>
     <string name="wallpaper_personal_dialog_content">Usa esta función para poder ver la selección de fondos de pantalla personalizados de acuerdo a tus intereses. Puedes activar y desactivar esta función en los ajustes. ¿Personalizar fondos de pantalla?</string>
     <string name="wallpaper_personal_dialog_disagree">No, gracias</string>
@@ -671,17 +713,5 @@
     <string name="xiaoai_speech_not_installed_download">Descargas</string>
     <string name="xiaoai_speech_not_installed_message">Descargar e instalar el asistente de voz Mi AI para continuar.</string>
     <string name="xiaoai_speech_not_installed_title">El asistente de voz Mi AI no está instalado.</string>
-    <string name="config_success">Aplicado con éxito</string>
-    <string name="mix_global">Sistema</string>
-    <string name="mix_home">Pantalla de inicio</string>
-    <string name="mix_icon">Iconos</string>
-    <string name="mix_lockscreen">Pantalla de bloqueo</string>
-    <string name="mix_tips">Elementos de temas</string>
-    <string name="theme_detail">Detalles</string>
-    <string name="tip_global">Barra de notificaciones, Teléfono, Mensajería, etc. Desmarcar para usar las opciones por defecto.</string>
-    <string name="tip_home">Fondo de pantalla de la Pantalla de inicio y reloj. Desmarcar para usar las opciones por defecto.</string>
-    <string name="tip_icon">Iconos de la Pantalla de inicio. Desmarcar para usar las opciones por defecto.</string>
-    <string name="tip_lockscreen">Fondo de pantalla de la Pantalla de bloqueo y reloj. Desmarcar para usar las opciones por defecto.</string>
-    <string name="title_home_miwallpaper_home_screen_effects">Efectos de la Pantalla de inicio</string>
-    <string name="try_tap">Pulsa para previsualizar</string>
+    <string name="you_might_also_like">También podría gustarte</string>
 </resources>
