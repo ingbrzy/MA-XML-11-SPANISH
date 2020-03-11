@@ -48,8 +48,6 @@
     <string name="error_unknown">No es posible iniciar sesión</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_dspt_provision">Si pierde su dispositivo puede ir a &lt;font color=#ff0000>%s&lt;/font> para ubicarlo o restablecerlo. Puede activar o desactivar esta función en cualquier momento en la configuración.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Compruebe su conexión de datos y vuelva a intentarlo.</string>
     <string name="find_device_error_server">Error de servidor</string>
     <string name="find_device_gdpr_prompt">Al activar Encontrar dispositivo, usted acepta nuestra <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidad</u></a>. Si necesita revocar la autorización, desactive esta función.</string>
@@ -181,14 +179,11 @@ Localice y bloquee su dispositivo en caso de extravío."</string>
     <string name="micloud_find_device_open_fail">No se pudo activar Encontrar dispositivo</string>
     <string name="micloud_find_device_opened">Encontrar dispositivo activado</string>
     <string name="micloud_find_device_opened_content">Encuentre su dispositivo en %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">Es posible que necesite enviar un mensaje SMS para activar este servicio. Su operador le cobrará por este mensaje. Al cambiar su tarjeta SIM, se enviará automáticamente un mensaje para reactivar esta función.</string>
     <string name="micloud_find_device_verify_button">Reactivar Encontrar dispositivo</string>
     <string name="micloud_find_device_verify_close">Desactivar Encontrar dispositivo</string>
     <string name="micloud_find_device_verify_fail">No se pudo reactivar Encontrar dispositivo</string>
     <string name="micloud_find_device_verify_progress">Reactivando Encontrar dispositivo…</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">Sincronización cancelada. Vuelva a intentarlo.</string>
     <string name="micloud_main_head_menu_cloud_backup">Respaldo de la pantalla de inicio</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Diseño de la pantalla de inicio, aplicaciones y ajustes de sistema</string>
@@ -480,8 +475,6 @@ Read and agree to our"<a href="app://com.miui.cloudservice.user_agreement.licens
     <string name="sync_dspt_entrance_provision_network">Esta aplicación necesita conectarse a internet para funcionar correctamente. La sincronización puede requerir conexión a datos móviles y activar el Wi-Fi.</string>
     <string name="sync_dspt_entrance_provision_skip">Omitir este paso</string>
     <string name="sync_dspt_provision">"Sincronice sus fotos, contactos, notas, y mucho más de todos los dispositivos o tenga acceso a ellos en "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Puede activar o desactivar esta función en cualquier momento desde los Ajustes.
 "</string>
     <string name="sync_item_calllog_summary">Sincronizar grabaciones de llamadas hechas y recibidas con este dispositivo</string>
