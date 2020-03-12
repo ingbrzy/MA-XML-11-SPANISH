@@ -147,7 +147,6 @@
     <string name="note_sort_way">Seleccione como desea ordenar sus notas</string>
     <string name="notealert_enter">Abrir nota</string>
     <string name="notealert_ok">Descartar</string>
-    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">Recordatorio de notas</string>
     <string name="permdesc_accessNote">Aplicaciones maliciosas podrían utilizar esto para acceder a sus datos personales.</string>
     <string name="permission_get_account_desc">Sincronizar notas con la nube</string>

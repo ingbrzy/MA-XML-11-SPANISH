@@ -101,12 +101,10 @@
     <string name="daily_forecast_add_city_message">Sigue el tiempo en %1$s para un pronóstico más detallado.</string>
     <string name="daily_forecast_add_city_title">Sigue el tiempo en %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"No se pudo obtener la información del tiempo
 Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="data_provided_by">Los datos proporcionados son parte de</string>
     <string name="edit_city">Gestionar ciudades</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Actualizando…</string>
     <string name="empty_view_net_unavailable">No se pudo conectar a la red</string>
     <string name="empty_view_refresh">Inténtalo de nuevo</string>
@@ -128,8 +126,6 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="first_start_network_title">Conexión a Internet y acceso a la ubicación</string>
     <string name="global_aqi">ICA: %1$s %2$s</string>
     <string name="hourly_forcast_now">Ahora</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">Previsión para 24 horas</string>
     <string name="hourly_forecast_title_hourly_desc">Previsión por horas</string>
@@ -145,15 +141,11 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="indices_title_feel">Sensación térmica</string>
     <string name="indices_title_pressure">Presión</string>
     <string name="install">Instalar</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">PRESIÓN</string>
     <string name="international_details_title">Detalles</string>
     <string name="international_details_uv_index_title">ÍNDICE UV</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">VIENTO</string>
     <string name="it_is_going_to_rain">Va a llover</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="locate_fail_detail_err">"No se pudo localizar el dispositivo
  Pulsa la pantalla para añadir o cambiar la posición de la ciudad manualmente"</string>
     <string name="location_provider_btn_text">Activar los servicios de localización</string>
@@ -235,7 +227,6 @@ Desliza hacia abajo para actualizar o comprueba los ajustes de red"</string>
     <string name="share_menu_title">Compartir</string>
     <string name="share_subject">Compartir</string>
     <string name="share_weather_desc">\#MIUI Tiempo#Hoy %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">No se puede obtener captura de pantalla</string>
     <string name="shortcut_short_label_24_hour_forecast">Previsión para 24 horas</string>

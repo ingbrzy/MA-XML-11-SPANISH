@@ -190,7 +190,6 @@ Los LPR de uno y cinco años se cotizarán el día 20 de cada mes (pueden ocurri
   <string name="mortgage_input_error">Enter value</string>
   <string name="mortgage_interest_amount">Interest amount</string>
   <string name="mortgage_interest_rate">Commercial interest</string>
-  <string name="mortgage_item_loan_ruler">@string/loan_type_title</string>
   <string name="mortgage_item_repayment">Repayment method</string>
   <string name="mortgage_item_start_time">Start date</string>
   <string name="mortgage_item_years">Loan tenure</string>

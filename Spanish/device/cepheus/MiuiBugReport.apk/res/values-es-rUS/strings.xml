@@ -483,7 +483,6 @@ Para activar su cuenta, siga el
     <string name="passport_wrong_phone_number_format">El formato de número telefónico introducido no es válido</string>
     <string name="passport_wrong_vcode">El código introducido es incorrecto</string>
     <string name="pic_not_exist">Esta imagen no existe</string>
-    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Sus comentarios con adjuntos y registros serán enviados a los servidores Mi.</string>
     <string name="plus_one_submit_dialog_not_show_again">Recordar preferencia</string>
     <string name="post_miui_bbs_failed">No se pudo publicar en el Foro MIUI</string>

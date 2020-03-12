@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">Atención</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo no se puede transmitir al dispositivo.</string>
     <string name="selectTextMode">Seleccionar texto</string>
-    <string name="status_bar_notification_info_overflow">> 999</string>
     <string name="fingerprint_icon_content_description">Icono de huella digital</string>
     <string name="paste_as_plain_text">Pegar como texto sin formato</string>
     <string name="autofill">Autocompletar</string>
@@ -462,7 +461,6 @@ Si tienes alguna pregunta, ponte en contacto con el administrador de tu organiza
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Código de función completo</string>
     <string name="fcError">Se ha producido un problema de conexión o el código de la función no es válido.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Buscar</string>
     <string name="find_next">Buscar siguiente</string>
     <string name="find_on_page">Buscar en la página</string>
@@ -664,7 +662,6 @@ accede a la página "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Quitar</string>
     <string name="kg_sim_pin_instructions">Introduce el PIN de la tarjeta SIM.</string>
     <string name="kg_sim_unlock_progress_dialog_message">Desbloqueando tarjeta SIM…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Has introducido una contraseña incorrecta %1$d veces. 
 
 Inténtalo de nuevo en %2$d segundos."</string>
@@ -978,7 +975,6 @@ Inténtalo de nuevo dentro de %2$d segundos."</string>
     <string name="notification_channel_wfc">Llamada por Wi-Fi</string>
     <string name="notification_hidden_text">Notificación nueva</string>
     <string name="notification_listener_binding_label">Detector de notificaciones</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Servicio de clasificación de notificaciones</string>
     <string name="notification_reply_button_accessibility">Responder</string>
     <string name="notification_title">Error de inicio de sesión de %1$s</string>
@@ -1759,7 +1755,6 @@ Escuchar sonidos fuertes durante mucho tiempo puede dañar los oídos."</string>
     <string name="zen_mode_feature_name">No molestar</string>
     <string name="zen_mode_forever">Hasta que se desactive</string>
     <string name="zen_mode_forever_dnd">Hasta que desactives la opción No molestar</string>
-    <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
     <string name="zen_mode_until">Hasta las %1$s</string>
     <string name="zen_upgrade_notification_content">Toca para consultar lo que se está bloqueando.</string>
     <string name="zen_upgrade_notification_title">Ha cambiado el modo No molestar</string>

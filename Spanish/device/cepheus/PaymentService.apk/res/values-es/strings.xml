@@ -19,7 +19,6 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="passport_access_denied">Acceso denegado</string>
     <string name="passport_account_hint_text">Correo electrónico, número de teléfono o ID de Mi Cuenta</string>
     <string name="passport_account_identity_title">Verifique su identidad</string>

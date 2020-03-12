@@ -252,9 +252,7 @@
     <string name="download_method">Descargar</string>
     <string name="download_no_application_title">No se puede abrir el archivo</string>
     <string name="download_paused_in_power_save_mode">Las descargas se pausan cuando Ahorrar batería está activado</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">Descargando…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">Calidad de la descarga</string>
     <string name="download_quality_summary">Ajustes adicionales para canciones descargadas</string>
     <string name="download_queued">En cola</string>
@@ -334,9 +332,7 @@
     <string name="exo_download_notification_channel_name">Descargas</string>
     <string name="exo_download_removing">Quitando descargas</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d×%2$d</string>
     <string name="exo_track_selection_auto">Automático</string>
     <string name="exo_track_selection_none">Ninguna</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -635,7 +631,6 @@
     <string name="priority_storage_summary">Descargar automáticamente a la SD externa si está disponible</string>
     <string name="privacy_desc">Política de Privacidad (obligatorio)</string>
     <string name="privacy_policy">Política de privacidad</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=es_ES</string>
     <string name="pro_member">Miembro PRO</string>
     <string name="project_device">Mi teléfono</string>
     <string name="prompt_grant_write_settings_permission">Permitir cambiar ajustes del sistema</string>
@@ -756,7 +751,6 @@
     <string name="start_to_check_new_version">Buscando actualizaciones…</string>
     <string name="start_to_download">Descargando…</string>
     <string name="start_to_play">Reproducir</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="storage_cloned_app">Almacenamiento para aplicaciones duales</string>
     <string name="storage_internal">Almacenamiento interno</string>
     <string name="storage_sd_card">Tarjeta SD</string>
@@ -827,7 +821,6 @@
     <string name="upgrade_music_message">Las actualizaciones están listas. Reinicia para aplicarlas.</string>
     <string name="upgrading_in_backstage">Actualizando en segundo plano…</string>
     <string name="user_agreement">Acuerdo de usuario</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=es_ES</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="version_info">Versión</string>

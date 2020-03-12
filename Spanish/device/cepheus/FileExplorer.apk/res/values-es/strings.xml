@@ -161,7 +161,6 @@
     <string name="dialog_type_image">Imágenes</string>
     <string name="dialog_type_text">Documentos</string>
     <string name="dialog_type_video">Vídeos</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">Mostrar nombre</string>
     <string name="domain">Dominio</string>
     <string name="download_success">Descargado con éxito</string>
@@ -208,7 +207,6 @@ Mantén pulsada una carpeta y pulsa \"Más\" para añadir."</string>
     <string name="favorite_ringtone">Tonos de llamada</string>
     <string name="favorite_screen_cap">Capturas de pantalla</string>
     <string name="feedback_send_email_body_extra_info">No borres la siguiente información. Nos ayudará a localizar el problema.</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_info_canread">Lectura: </string>
     <string name="file_info_canwrite">Escritura: </string>
     <string name="file_info_ishidden">Oculto: </string>

@@ -452,7 +452,6 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Cuadro medio</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Medición por puntos</string>
     <string name="pref_camera_autoexposure_title">Ajustes de auto exposición</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Alta</string>
     <string name="pref_camera_beautify_entry_low">Baja</string>
     <string name="pref_camera_beautify_entry_normal">Media</string>

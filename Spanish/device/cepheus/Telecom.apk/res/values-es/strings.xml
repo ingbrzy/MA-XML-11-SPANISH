@@ -396,7 +396,6 @@ Selección"</string>
     <string name="picture_color_mode_desc">Utiliza sRGB</string>
     <string name="pointer_location">Ubicación del puntero</string>
     <string name="pointer_location_summary">Superponer los datos de las pulsaciones en la pantalla</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s para completar la carga</string>
     <string name="power_discharge_by">Debería durar aproximadamente hasta %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Debería durar aproximadamente hasta %1$s según el uso (%2$s)</string>
@@ -423,7 +422,6 @@ Selección"</string>
     <string name="private_dns_mode_provider">Nombre de host del proveedor de DNS privado</string>
     <string name="private_dns_mode_provider_failure">No se ha podido establecer la conexión</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduce el host del proveedor de DNS</string>
-    <string name="process_kernel_label">SO Android</string>
     <string name="remaining_length_format">Tiempo restante: %1$s</string>
     <string name="respond_via_sms_canned_response_1">Ahora no puedo hablar. ¿Qué pasa?</string>
     <string name="respond_via_sms_canned_response_2">Te llamo ahora.</string>

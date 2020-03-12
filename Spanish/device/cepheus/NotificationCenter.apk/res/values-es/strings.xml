@@ -31,7 +31,6 @@
     <string name="on">Activado</string>
     <string name="settings_guide_title">¿Necesitas otros ajustes?</string>
     <string name="show_badge_notifications">Iconos de notificaciones</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="status_bar_setting">Barra de estado</string>
     <string name="summary_disable_float_notification">Las notificaciones flotantes no están permitidas</string>
     <string name="summary_disable_lockscreen_notification">Las notificaciones en la Pantalla de bloqueo no están permitidas</string>

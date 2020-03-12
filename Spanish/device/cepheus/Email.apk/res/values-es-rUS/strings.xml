@@ -230,7 +230,6 @@
     <string name="battery_saver">Ahorro de batería</string>
     <string name="battery_saver_keywords">ahorrar batería;batería del correo</string>
     <string name="bcc">Cco</string>
-    <string name="bcc_heading">"Cco: "</string>
     <string name="bill_center_setting">Ajustes de facturación</string>
     <string name="bill_center_setting_head">Importar info de estas cuentas</string>
     <string name="bill_cycle_text">Ciclo de facturación</string>
@@ -251,7 +250,6 @@
     <string name="cancel_pop3_attchemt_downloading">No se pueden cancelar descargas en curso para archivos adjuntos en cuentas POP3</string>
     <string name="cant_move_or_change_labels">No se puede mover elementos de varias cuentas.</string>
     <string name="cc">Cc</string>
-    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Cco</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_folders_selection_dialog_title">Cambiar carpetas</string>
@@ -269,7 +267,6 @@
     <string name="click_download_all_content">[ Toque para descargar contenido ]</string>
     <string name="click_to_reload">Toque la pantalla para actualizar</string>
     <string name="collapse_recipient_details">Contraer detalles del destinatario</string>
-    <string name="colon">:</string>
     <string name="compose">Redactar</string>
     <string name="compose_attachment_number_limit">No se puede agregar más de 10 adjuntos</string>
     <string name="compose_paste_address_oob">Demasiados caracteres</string>
@@ -491,7 +488,6 @@
     <string name="gmail_web_login_required_message">Iniciar sesión en Gmail</string>
     <string name="have_auth_code">Tengo un código</string>
     <string name="header_category_account">Cuentas</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Comentarios</string>
     <string name="header_label_general_preferences">General</string>
     <string name="help_and_info">Ayuda</string>
@@ -514,7 +510,6 @@
     <string name="invalid_recipient">La dirección %s no es válida.</string>
     <string name="invalid_recipient_title">Error de destinatario</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">No hay correos.</string>
     <string name="load_from_remote">Buscar bandeja de entrada en el servidor</string>
     <string name="load_more">Cargar más</string>
@@ -981,10 +976,8 @@ para recibir recordatorios de pagos y viajes"</string>
     <string name="silent_ringtone">Silencio</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">La contraseña para el servidor de correo saliente es incorrecta</string>
     <string name="sort_attachment">Ordenar por</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">Almacenamiento</string>
     <string name="str_select_all">Seleccionar todo</string>
     <string name="str_select_none">Deseleccionar todo</string>

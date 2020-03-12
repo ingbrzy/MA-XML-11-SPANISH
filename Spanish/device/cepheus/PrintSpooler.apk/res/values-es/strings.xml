@@ -17,7 +17,6 @@
     <string name="connectio_delay_content">Podrías necesitar confirmar la conexión de tu impresora.</string>
     <string name="connectio_help_title">Conectando a una impresora</string>
     <string name="could_not_create_file">No se ha podido crear el archivo</string>
-    <string name="current_page_template">%1$d de %2$d</string>
     <string name="delete_saved_printer_content">¿Eliminar ahora las impresoras seleccionadas?</string>
     <string name="destination_default_text">Elige una impresora</string>
     <string name="disabled_services_title">Servicios inhabilitados</string>
@@ -86,7 +85,6 @@
     <string name="printer_busy">La impresora está ocupada</string>
     <string name="printer_error">Error de la impresora</string>
     <string name="printer_error_msg">Error de la impresora: %1$s</string>
-    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Más información sobre esta impresora</string>
     <string name="printer_notification_error_title">No se pudo imprimir %1$s</string>
     <string name="printer_unavailable">La impresora no está disponible</string>

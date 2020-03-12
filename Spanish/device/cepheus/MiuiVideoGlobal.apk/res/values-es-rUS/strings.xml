@@ -58,7 +58,6 @@
     <string name="cast_forward">Avanzar</string>
     <string name="cast_forward_10">Avanzar diez segundos</string>
     <string name="cast_forward_30">Avanzar treinta segundos</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Silenciar</string>
     <string name="cast_notification_connected_message">Se estableció conexión con %1$s</string>
     <string name="cast_notification_connecting_message">Estableciendo conexión con %1$s</string>
@@ -465,7 +464,6 @@ Mejorar la seguridad de su cuenta."</string>
     <string name="slid_fail_message">No se pudo guardar</string>
     <string name="slide_save_message">Generando video…</string>
     <string name="sns_sign_in">Otras formas de iniciar sesión</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sure_to_logout">¿Cerrar sesión?</string>
     <string name="switch_ratio_pause">Velocidad de reproducción inestable. Regresando a la velocidad predeterminada…</string>
     <string name="symbol_rmb">¥</string>
